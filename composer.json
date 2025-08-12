@@ -1,0 +1,12 @@
+{
+    "name": "erfin/tugas-apidong",
+    "description": "Belajar PHP",
+    "autoload": {
+        "psr-4": {
+            "Erfin\\TugasApidong\\": "src/"
+        }
+    },
+    "require": {
+        "nesbot/carbon": "^3.10"
+    }
+}
